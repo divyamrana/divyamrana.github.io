@@ -260,6 +260,18 @@ h2 {
     text-decoration: none;
     margin-right: 15px;
 }
+
+.btn_resume{
+    list-style: none;
+    display: inline-block;
+    font-size: 70%;
+    text-align: left;
+    align-content: left;
+    text-decoration: none;
+    margin-right: 15px;
+}
+
+/*
 .btn_resume {
     list-style: none;
     margin-top: 2px;
@@ -278,6 +290,7 @@ h2 {
     text-align: center;
     font-family: 
 }
+*/
 
 /* ----- LINKS ----- */
 
