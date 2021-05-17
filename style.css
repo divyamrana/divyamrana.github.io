@@ -308,6 +308,7 @@ h2 {
     font-size: 70%;
     text-align: left;
     align-content: left;
+    float: left;
     text-decoration: none;
     margin-right: 15px;
 }
