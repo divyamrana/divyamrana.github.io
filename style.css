@@ -172,6 +172,13 @@ h2 {
     text-align: justify;
     float: left;
 }
+.projects_paragraph{
+    font-family: Helvetica Neue, Arial, sans-serif;
+    margin-top: 30px;
+    margin-bottom: 3%;
+    font-size: 22px;
+    width: 50%;
+}
 
 .line{
     color: rgb(0, 245, 255);
@@ -190,13 +197,46 @@ h2 {
     
 }
 
+.projects {
+    padding: inherit;
+    padding-bottom: 30px;
+    max-width: 1140px;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 3%;
+    padding-bottom: 10px;
+    color: black;
+    font-size: 150%;
+    font-family: Gloria Hallelujah, Arial, Helvetica Neue, sans-serif;
+}
+.projects h3{
+    -webkit-text-stroke: 0.5px rgb(0, 245, 255);
+}
+.projects h4{
+    font-family: Helvetica Neue, sans-serif;
+    font-size: 120%;
+    text-align: left;
+    margin-top: 30px;
+    text-decoration: bold;
+    font-weight: 1000;
+    -webkit-text-stroke: 0.5px rgb(0, 245, 255);
+}
+
+.projects-list{
+    font-family: Helvetica Neue, sans-serif;
+    font-size: 20px;
+    width: 100%;
+    text-align: left;
+    word-spacing: 2px;
+    font-weight: 200;
+}
 .publications{
     padding: inherit;
     padding-bottom: 30px;
     max-width: 1140px;
     margin: 0 auto;
     text-align: center;
-    margin-top: 37%;
+    margin-top: 29%;
     color: black;
     font-size: 150%;
     font-family: Gloria Hallelujah, Arial, Helvetica Neue, sans-serif;
